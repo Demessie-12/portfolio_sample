@@ -1,4 +1,4 @@
-export default {
+export default themes = {
     // Temp fonts
     fonts: {
       title: "Space Grotesk, sans-serif",
